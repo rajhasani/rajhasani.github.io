@@ -5,5 +5,12 @@
   "sub_title": "Step-by-step with commands",
   "top_image": "top_image.jpeg",
   "visible": true
+ },
+  {
+  "url_title": "OverTheWire-Bandit",
+  "title": "OverTheWire: Bandit",
+  "sub_title": "A comprehensive write-up of a Linux-based wargame.",
+  "top_image": "top_image.png",
+  "visible": true
  }
 ]
