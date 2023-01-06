@@ -1,5 +1,12 @@
 [
   {
+  "url_title": "OverTheWire-Leviathan",
+  "title": "OverTheWire: Leviathan",
+  "sub_title": "[WIP] A comprehensive write-up of another Linux-based wargame.",
+  "top_image": "leviathan0.jpg",
+  "visible": true
+  },  
+  {
   "url_title": "OverTheWire-Krypton",
   "title": "OverTheWire: Krypton",
   "sub_title": "[WIP] A comprehensive write-up of a cryptography-based wargame.",
